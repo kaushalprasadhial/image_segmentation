@@ -1,5 +1,6 @@
 # image_segmentation
-a jupyter notebook to understand image segmentation
+
+impimentation of different segmentation techinques like Region-Based Segmentation, Edge Detection Segmentation, Segmentation based on Clustering, etc in order to understand how image segmentation work.
 
 |Algorithm|Description|Advantages|Limitations|
 |:---:|:---:|:---:|:---:|
